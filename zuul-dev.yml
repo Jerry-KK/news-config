@@ -1,5 +1,3 @@
-# ip请求限制的参数配置
-blackIp: 
-  continueCounts: 10
-  timeInterval: 10
-  limitTimes: 15
+continueCounts: 10
+timeInterval: 10
+limitTimes: 15
